@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **C++, Python**
+- 💬 Ask me about **C++,  Python**
 
 - 📫 How to reach me **costinhacosta2004@gmail.com**
 

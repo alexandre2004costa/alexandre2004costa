@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandre2004costa&label=Profile%20views&color=0e74a5&style=flat" alt="alexandre2004costa" /> </p>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+
+![giphy](https://github.com/alexandre2004costa/alexandre2004costa/assets/108695812/63e8d619-0d0a-411d-9f83-b36b51226d92)
 
 
 - 📫 How to reach me **costinhacosta2004@gmail.com**

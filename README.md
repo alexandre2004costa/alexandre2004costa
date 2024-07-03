@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexandre Costa</h1>
 <h3 align="center">A passionate IT student from Portugal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandre2004costa&label=Profile%20views&color=0e75b6&style=flat" alt="alexandre2004costa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandre2004costa&label=Profile%20views&color=0e74a5&style=flat" alt="alexandre2004costa" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **C++,  Python**
 
 - 📫 How to reach me **costinhacosta2004@gmail.com**
 

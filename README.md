@@ -30,7 +30,7 @@
 | LCOM         | 19.9   | [Aerial Ambush Game](https://github.com/alexandre2004costa/Lcom-project) |
 | DA         | 19.8  | [Water Flow](https://github.com/SofiaX5/DA_1) |
 | DA         | 19.4  | [Traveling Salesman problem heuristic tecniques](https://github.com/alexandre2004costa/AlexandreX5_D2) |
-| AED         | 19.3  | [Travelling system](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC04T5) |
+| AED         | 19.3  | [Travelling system](https://github.com/berno9/ProjetoAED2) |
 | LTW         | 17.5  | [DABintage website](https://github.com/FEUP-LTW-2024/ltw-project-2024-ltw04g06) |
 | ESOF         | 17.5  | [ForumFlow app](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC04T5) |
 | LDTS         | 14.5  | [PacMan game](https://github.com/FEUP-LDTS-2023/project-l04gr04) |

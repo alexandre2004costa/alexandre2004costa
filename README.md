@@ -40,7 +40,9 @@
 
 | Area | Project name |
 |------|--------------|
-| WEB  | [Flappy Bird](https://github.com/alexandre2004costa/Flappy-Bird) |
+| Web  | [Flappy Bird](https://github.com/alexandre2004costa/Flappy-Bird) |
+| Web  | [Pokemon](https://github.com/alexandre2004costa/Pokemon) |
+
 
 
 - 📫 How to reach me **costinhacosta2004@gmail.com**

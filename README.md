@@ -42,6 +42,7 @@
 |------|--------------|
 | Web  | [Flappy Bird](https://github.com/alexandre2004costa/Flappy-Bird) |
 | Web  | [Pokemon](https://github.com/alexandre2004costa/Pokemon) |
+| Web  | [Smash game](https://github.com/alexandre2004costa/Smash_Game) |
 
 
 

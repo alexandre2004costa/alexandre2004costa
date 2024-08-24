@@ -45,6 +45,8 @@
 | Web  | [Smash](https://github.com/alexandre2004costa/Smash_Game) |
 | Web  | [Wordl](https://github.com/alexandre2004costa/Wordl) |
 | Web  | [Fish](https://github.com/alexandre2004costa/Fish-Game) |
+| Python  | [NotePad](https://github.com/alexandre2004costa/NotePad) |
+
 
 
 

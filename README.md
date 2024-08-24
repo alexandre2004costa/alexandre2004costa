@@ -35,5 +35,12 @@
 | ESOF         | 17.5  | [ForumFlow app](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC04T5) |
 | LDTS         | 14.5  | [PacMan game](https://github.com/FEUP-LDTS-2023/project-l04gr04) |
 
+##
+# Personal projects
+
+| Area | Project name |
+|------|--------------|
+| WEB  | [Flappy Bird](https://github.com/alexandre2004costa/Flappy-Bird) |
+
 
 - 📫 How to reach me **costinhacosta2004@gmail.com**

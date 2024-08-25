@@ -52,8 +52,6 @@
 
 <h2 align="left">💻 Personal Projects</h2>
 
-# Personal projects
-
 | Area    | Project name |  Preview |
 |---------|--------------|----------|
 | Web     | [Flappy Bird](https://github.com/alexandre2004costa/Flappy-Bird) | ![Flappy Bird](https://github.com/alexandre2004costa/Flappy-Bird/blob/main/Animation.gif) |

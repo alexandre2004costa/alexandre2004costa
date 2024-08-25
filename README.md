@@ -9,6 +9,7 @@
   <img src="https://github.com/alexandre2004costa/alexandre2004costa/assets/108695812/63e8d619-0d0a-411d-9f83-b36b51226d92" alt="Coding Animation" />
 </p>
 
+
 ---
 
 <h3 align="left">🎯 I like to do programming problems in <a href="https://www.leetcode.com/alexandrecosta_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alexandrecosta_04" height="30" width="40" /></a></h3>
@@ -16,9 +17,9 @@
 
 
 ---
-
+<h2 align="left">🛠 My Favorite Languages and Tools:</h2>
 <p align="center">
-  
+  <img src="https://github.com/alexandre2004costa/Smash_Game/blob/main/giphy.gif" alt="Languages anim" />
 </p>
 
 ---

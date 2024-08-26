@@ -67,4 +67,4 @@
 ---
 
 <h2 align="left">📫 How to reach me:</h2>
-<p align="left">Email: **costinhacosta2004@gmail.com**</p>
+<p align="left">Email: costinhacosta2004@gmail.com</p>

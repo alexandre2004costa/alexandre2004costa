@@ -54,6 +54,8 @@
 
 | Area    | Project name |  Preview |
 |---------|--------------|----------|
+
+| Python  | [Casino](https://github.com/alexandre2004costa/Casino) | ![Casino](https://github.com/alexandre2004costa/Casino/blob/main/Animation.gif) |
 | Web     | [Flappy Bird](https://github.com/alexandre2004costa/Flappy-Bird) | ![Flappy Bird](https://github.com/alexandre2004costa/Flappy-Bird/blob/main/Animation.gif) |
 | Web     | [Pokemon](https://github.com/alexandre2004costa/Pokemon) | ![Pokemon](https://github.com/alexandre2004costa/Pokemon/blob/main/Animation.gif) |
 | Web     | [Smash](https://github.com/alexandre2004costa/Smash_Game) | ![Smash](https://github.com/alexandre2004costa/Smash_Game/blob/main/Animation.gif) |

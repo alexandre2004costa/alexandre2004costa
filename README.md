@@ -38,15 +38,15 @@
 
 <h2 align="left">📚 University Projects</h2>
 
-| UC  | Grade | Project Name |
-|-------------------|-------|--------------------------|
-| LCOM              | 19.9  | [Aerial Ambush Game](https://github.com/alexandre2004costa/Lcom-project) |
-| DA                | 19.8  | [Water Flow](https://github.com/SofiaX5/DA_1) |
-| DA                | 19.4  | [Traveling Salesman Problem Heuristic Techniques](https://github.com/alexandre2004costa/AlexandreX5_D2) |
-| AED               | 19.3  | [Travelling System](https://github.com/berno9/ProjetoAED2) |
-| LTW               | 17.5  | [DABintage Website](https://github.com/FEUP-LTW-2024/ltw-project-2024-ltw04g06) |
-| ESOF              | 17.5  | [ForumFlow App](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC04T5) |
-| LDTS              | 14.5  | [PacMan Game](https://github.com/FEUP-LDTS-2023/project-l04gr04) |
+| UC  | Grade | Project Name | Preview |
+|-------------------|-------|--------------------------| -------------------------------|
+| LCOM              | 19.9  | [Aerial Ambush Game](https://github.com/alexandre2004costa/Lcom-project) ||
+| DA                | 19.8  | [Water Flow](https://github.com/SofiaX5/DA_1) ||
+| DA                | 19.4  | [Traveling Salesman Problem Heuristic Techniques](https://github.com/alexandre2004costa/AlexandreX5_D2) ||
+| AED               | 19.3  | [Travelling System](https://github.com/berno9/ProjetoAED2) ||
+| LTW               | 17.5  | [DABintage Website](https://github.com/FEUP-LTW-2024/ltw-project-2024-ltw04g06) ||
+| ESOF              | 17.5  | [ForumFlow App](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC04T5) ||
+| LDTS              | 14.5  | [PacMan Game](https://github.com/FEUP-LDTS-2023/project-l04gr04) | ![PacMan Game](https://github.com/FEUP-LDTS-2023/project-l04gr04/blob/master/gifs_images/scattergif.gif) |
 
 ---
 

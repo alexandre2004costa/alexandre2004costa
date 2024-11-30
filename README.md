@@ -14,25 +14,30 @@
 
 <h3 align="left">🎯 I like to do programming problems in <a href="https://www.leetcode.com/alexandrecosta_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alexandrecosta_04" height="30" width="40" /></a></h3>
 
-
-
----
-<h2 align="left">🛠 My Favorite Languages and Tools:</h2>
-<p align="center">
-  <img src="https://github.com/alexandre2004costa/Smash_Game/blob/main/giphy.gif" alt="Languages anim" />
-</p>
-
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandre2004costa&show_icons=true&locale=en&layout=compact" alt="alexandre2004costa" />
+<div style="text-align: center; margin-top: 20px; background-color: #f5f5f5; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+  <div style="margin-bottom: 20px;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandre2004costa&show_icons=true&locale=en&layout=compact" 
+      alt="Top Languages" 
+      style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 123, 255, 0.2); border: 2px solid #007bff;" />
+  </div>
+  <div style="margin-bottom: 20px;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=alexandre2004costa&show_icons=true&locale=en" 
+      alt="GitHub Stats" 
+      style="border-radius: 8px; box-shadow: 0 4px 6px rgba(40, 167, 69, 0.2); border: 2px solid #28a745;" />
+  </div>
+  <div>
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=alexandre2004costa&" 
+      alt="GitHub Streak" 
+      style="border-radius: 8px; box-shadow: 0 4px 6px rgba(255, 193, 7, 0.2); border: 2px solid #ffc107;" />
+  </div>
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandre2004costa&show_icons=true&locale=en" alt="alexandre2004costa" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandre2004costa&" alt="alexandre2004costa" />
-</div>
+
+
 
 ---
 

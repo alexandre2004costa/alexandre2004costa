@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexandre Costa</h1>
+<h1 align="center">I'm Alexandre Costa</h1>
 <h3 align="center">A passionate IT student from Portugal</h3>
 
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/alexandre2004costa/alexandre2004costa/assets/108695812/63e8d619-0d0a-411d-9f83-b36b51226d92" alt="Coding Animation" />
+  <img src="https://github.com/alexandre2004costa/alexandre2004costa/assets/108695812/63e8d619-0d0a-411d-9f83-b36b51226d92&theme=onedark" alt="Coding Animation" />
 </p>
 
 

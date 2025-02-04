@@ -29,7 +29,7 @@
 
 | UC  | Grade | Project Name | Preview |
 |-------------------|-------|--------------------------| -------------------------------|
-| LCOM              | 19.9  | [Aerial Ambush Game](https://github.com/alexandre2004costa/Lcom-project) ||
+| LCOM              | 19.9  | [Aerial Ambush Game](https://github.com/alexandre2004costa/Lcom-project) |![Aerial Ambush Game](https://github.com/alexandre2004costa/Lcom-project/blob/master/img/gameM.PNG)|
 | DA                | 19.8  | [Water Flow](https://github.com/SofiaX5/DA_1) ||
 | DA                | 19.4  | [Traveling Salesman Problem Heuristic Techniques](https://github.com/alexandre2004costa/AlexandreX5_D2) ||
 | AED               | 19.3  | [Travelling System](https://github.com/berno9/ProjetoAED2) ||

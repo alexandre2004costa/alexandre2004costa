@@ -30,15 +30,16 @@
 | UC  | Grade | Project Name | Preview |
 |-------------------|-------|--------------------------| -------------------------------|
 | LCOM              | 19.9  | [Aerial Ambush Game](https://github.com/alexandre2004costa/Lcom-project) |![Aerial Ambush Game](https://github.com/alexandre2004costa/Lcom-project/blob/master/img/Aerial_Ambush.gif)|
-| DA                | 19.8  | [Water Flow](https://github.com/SofiaX5/DA_1) ||
 | LBAW              | 19.4  | [GatherGo Website](https://github.com/SofiaX5/LBAW_Project) |![](https://private-user-images.githubusercontent.com/132204152/410931907-fee3a837-a73b-4763-8b1d-4e768fd4b5bc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg5NTIxMjAsIm5iZiI6MTczODk1MTgyMCwicGF0aCI6Ii8xMzIyMDQxNTIvNDEwOTMxOTA3LWZlZTNhODM3LWE3M2ItNDc2My04YjFkLTRlNzY4ZmQ0YjViYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIwN1QxODEwMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zOTdkY2ZmOTMwYTEyNjA5N2NlOTQwODlmMjI5YjQ0NWViZmVjYjQ1ODQ4N2Q3MmQ5ZjYwMmUwMGZlOGY2NjZhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.T4VDa6KFPeWJ5eRMdcQhojvO9RghScCY97xBD_8JheU)|
+| PFL               | 18.3  | [Board Game Prolog](https://github.com/alexandre2004costa/PFL2) |![Board Game Prolog](https://github.com/user-attachments/assets/4a16c7ed-ec0c-44bd-b48e-e2d1494c1f23)|
+| LDTS              | 14.5  | [PacMan Game](https://github.com/FEUP-LDTS-2023/project-l04gr04) | ![PacMan Game](https://github.com/FEUP-LDTS-2023/project-l04gr04/blob/master/gifs_images/scattergif.gif) |
+| DA                | 19.8  | [Water Flow](https://github.com/SofiaX5/DA_1) ||
 | DA                | 19.4  | [Traveling Salesman Problem Heuristic Techniques](https://github.com/alexandre2004costa/AlexandreX5_D2) ||
 | AED               | 19.3  | [Travelling System](https://github.com/berno9/ProjetoAED2) ||
 | PFL               | 18.4  | [Haskell Graph Functions](https://github.com/alexandre2004costa/PFL-project) ||
-| PFL               | 18.3  | [Board Game Prolog](https://github.com/alexandre2004costa/PFL2) |![Board Game Prolog](https://github.com/user-attachments/assets/4a16c7ed-ec0c-44bd-b48e-e2d1494c1f23)|
 | LTW               | 17.5  | [DABintage Website](https://github.com/FEUP-LTW-2024/ltw-project-2024-ltw04g06) ||
 | ESOF              | 17.5  | [ForumFlow App](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC04T5) ||
-| LDTS              | 14.5  | [PacMan Game](https://github.com/FEUP-LDTS-2023/project-l04gr04) | ![PacMan Game](https://github.com/FEUP-LDTS-2023/project-l04gr04/blob/master/gifs_images/scattergif.gif) |
+
 
 ---
 

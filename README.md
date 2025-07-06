@@ -29,15 +29,23 @@
 
 | UC  | Grade | Project Name | Preview |
 |-------------------|-------|--------------------------| -------------------------------|
+| PI                | ---   | [Spiking Neural Networks](https://github.com/alexandre2004costa/Spinking-Neural-Networks) | ![](https://github.com/alexandre2004costa/Spinking-Neural-Networks/blob/master/SNN.gif)|
+| COMP              | 20.0  | [Compilers](https://github.com/alexandre2004costa/Compilers) || 
+| FSI               | 20.0  | [Labs & CTFs](https://github.com/alexandre2004costa/FSI_LABS) || 
 | LCOM              | 19.9  | [Aerial Ambush Game](https://github.com/alexandre2004costa/Lcom-project) |![Aerial Ambush Game](https://github.com/alexandre2004costa/Lcom-project/blob/master/img/Aerial_Ambush.gif)|
-| LBAW              | 19.4  | [GatherGo Website](https://github.com/SofiaX5/LBAW_Project) |![](https://private-user-images.githubusercontent.com/132204152/410931907-fee3a837-a73b-4763-8b1d-4e768fd4b5bc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkxOTk4NDQsIm5iZiI6MTczOTE5OTU0NCwicGF0aCI6Ii8xMzIyMDQxNTIvNDEwOTMxOTA3LWZlZTNhODM3LWE3M2ItNDc2My04YjFkLTRlNzY4ZmQ0YjViYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxMFQxNDU5MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZGNjNWRjNmIzYjI4OTc4MDg0ZDkxMThlYzljMjFkMTRlNjExNDI5NWY4YWFkMzY4NDk3ZmVmNWY5NjFmNmFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.sHusXZH-JezZKXWt9LO22yd0ZY8R1gVUzsOofut3VD4)|
-| LDTS              | 14.5  | [PacMan Game](https://github.com/FEUP-LDTS-2023/project-l04gr04) | ![PacMan Game](https://github.com/FEUP-LDTS-2023/project-l04gr04/blob/master/gifs_images/scattergif.gif) |
 | DA                | 19.8  | [Water Flow](https://github.com/SofiaX5/DA_1) ||
+| IA                | 19.5  | [Baker's Dozen Solitaire](https://github.com/SofiaX5/IA_Project1) ||
+| LBAW              | 19.4  | [GatherGo Website](https://github.com/SofiaX5/LBAW_Project) |![](https://private-user-images.githubusercontent.com/132204152/410931907-fee3a837-a73b-4763-8b1d-4e768fd4b5bc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkxOTk4NDQsIm5iZiI6MTczOTE5OTU0NCwicGF0aCI6Ii8xMzIyMDQxNTIvNDEwOTMxOTA3LWZlZTNhODM3LWE3M2ItNDc2My04YjFkLTRlNzY4ZmQ0YjViYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxMFQxNDU5MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZGNjNWRjNmIzYjI4OTc4MDg0ZDkxMThlYzljMjFkMTRlNjExNDI5NWY4YWFkMzY4NDk3ZmVmNWY5NjFmNmFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.sHusXZH-JezZKXWt9LO22yd0ZY8R1gVUzsOofut3VD4)|
 | DA                | 19.4  | [Traveling Salesman Problem Heuristic Techniques](https://github.com/alexandre2004costa/AlexandreX5_D2) ||
 | AED               | 19.3  | [Travelling System](https://github.com/berno9/ProjetoAED2) ||
+| CPD               | 19.0  |  [2 Assigns (Chat Rooms & Parallel tests)](https://github.com/alexandre2004costa/CPD) ||
+| CG                | 19.0  | [Scene w Heli, Fire, Water ...](https://github.com/alexandre2004costa/Computa-o-Gr-fica) ||
 | PFL               | 18.4  | [Haskell Graph Functions](https://github.com/alexandre2004costa/PFL-project) ||
+| PFL               | 18.3  | [Blinq](https://github.com/alexandre2004costa/PFL2) ||
+| IA                | 18.0  | [Loan aproval prediction](https://github.com/alexandre2004costa/IA_project2) ||
 | LTW               | 17.5  | [DABintage Website](https://github.com/FEUP-LTW-2024/ltw-project-2024-ltw04g06) ||
 | ESOF              | 17.5  | [ForumFlow App](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC04T5) ||
+| LDTS              | 14.5  | [PacMan Game](https://github.com/FEUP-LDTS-2023/project-l04gr04) | ![PacMan Game](https://github.com/FEUP-LDTS-2023/project-l04gr04/blob/master/gifs_images/scattergif.gif) |
 
 
 ---

@@ -1,29 +1,33 @@
 <h1 align="center">I'm Alexandre Costa</h1>
-<h3 align="center">A passionate IT student from Portugal</h3>
+<h3 align="center">💻 A passionate IT student from Portugal</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alexandre2004costa&label=Profile%20views&color=0e74a5&style=flat" alt="alexandre2004costa" />
+  <img src="https://komarev.com/ghpvc/?username=alexandre2004costa&label=Profile%20views&color=0e74a5&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/alexandre2004costa/alexandre2004costa/assets/108695812/63e8d619-0d0a-411d-9f83-b36b51226d92&theme=onedark" alt="Coding Animation" />
+  <img src="https://github.com/alexandre2004costa/alexandre2004costa/assets/108695812/63e8d619-0d0a-411d-9f83-b36b51226d92&theme=onedark" alt="Coding Animation" width="400" />
 </p>
 
+---
+
+<h3 align="center">🎯 I like to solve programming problems on</h3>
+<p align="center">
+  <a href="https://leetcode.com/alexandrecosta_04" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
+  </a>
+</p>
 
 ---
 
-<h3 align="left">🎯 I like to do programming problems in <a href="https://www.leetcode.com/alexandrecosta_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alexandrecosta_04" height="30" width="40" /></a></h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexandre2004costa&show_icons=true&theme=onedark" alt="GitHub Stats" width="450"/>
+</p>
 
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre2004costa&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre2004costa&layout=compact&show_icons=true&theme=onedark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexandre2004costa&theme=onedark)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=alexandre2004costa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alexandre2004costa&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+</p>
 
-
-
-
----
 
 <h2 align="left">📚 University Projects</h2>
 

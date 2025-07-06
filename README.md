@@ -30,7 +30,7 @@
 | UC  | Grade | Project Name | Preview |
 |-------------------|-------|--------------------------| -------------------------------|
 | PI                | ---   | [Spiking Neural Networks](https://github.com/alexandre2004costa/Spinking-Neural-Networks) | ![](https://github.com/alexandre2004costa/Spinking-Neural-Networks/blob/master/SNN.gif)|
-| COMP              | 20.0  | [Compilers](https://github.com/alexandre2004costa/Compilers) || 
+| COMP              | 20.0  | [Compilers](https://github.com/alexandre2004costa/Compilers/tree/master) || 
 | FSI               | 20.0  | [Labs & CTFs](https://github.com/alexandre2004costa/FSI_LABS) || 
 | LCOM              | 19.9  | [Aerial Ambush Game](https://github.com/alexandre2004costa/Lcom-project) |![Aerial Ambush Game](https://github.com/alexandre2004costa/Lcom-project/blob/master/img/Aerial_Ambush.gif)|
 | DA                | 19.8  | [Water Flow](https://github.com/SofiaX5/DA_1) ||

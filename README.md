@@ -33,7 +33,6 @@
 
 | UC  | Grade | Project Name | Preview |
 |-------------------|-------|--------------------------| -------------------------------|
-| PI                | ---   | [Spiking Neural Networks](https://github.com/alexandre2004costa/Spinking-Neural-Networks) | ![](https://github.com/alexandre2004costa/Spinking-Neural-Networks/blob/master/SNN.gif)|
 | COMP              | 20.0  | [Compilers](https://github.com/alexandre2004costa/Compilers/tree/master) || 
 | FSI               | 20.0  | [Labs & CTFs](https://github.com/alexandre2004costa/FSI_LABS) || 
 | LCOM              | 19.9  | [Aerial Ambush Game](https://github.com/alexandre2004costa/Lcom-project) |![Aerial Ambush Game](https://github.com/alexandre2004costa/Lcom-project/blob/master/img/Aerial_Ambush.gif)|
@@ -46,6 +45,7 @@
 | CG                | 19.0  | [Scene w Heli, Fire, Water ...](https://github.com/alexandre2004costa/Computa-o-Gr-fica) ||
 | PFL               | 18.4  | [Haskell Graph Functions](https://github.com/alexandre2004costa/PFL-project) ||
 | PFL               | 18.3  | [Blinq](https://github.com/alexandre2004costa/PFL2) ||
+| PI                | 18.0  | [Spiking Neural Networks](https://github.com/alexandre2004costa/Spinking-Neural-Networks) | ![](https://github.com/alexandre2004costa/Spinking-Neural-Networks/blob/master/SNN.gif)|
 | IA                | 18.0  | [Loan aproval prediction](https://github.com/alexandre2004costa/IA_project2) ||
 | LTW               | 17.5  | [DABintage Website](https://github.com/FEUP-LTW-2024/ltw-project-2024-ltw04g06) ||
 | ESOF              | 17.5  | [ForumFlow App](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC04T5) ||

@@ -31,7 +31,7 @@
 
 <h2 align="left">📚 University Projects</h2>
 
-| UC  | Grade | Project Name | Preview |
+| UC  | Grade (0-20) | Project Name | Preview |
 |-------------------|-------|--------------------------| -------------------------------|
 | COMP              | 20.0  | [Compilers](https://github.com/alexandre2004costa/Compilers/tree/master) || 
 | FSI               | 20.0  | [Labs & CTFs](https://github.com/alexandre2004costa/FSI_LABS) || 

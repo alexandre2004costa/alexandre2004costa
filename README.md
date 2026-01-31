@@ -43,12 +43,15 @@
 | AED (LEIC)           | 19.3  | [Travelling System](https://github.com/berno9/ProjetoAED2) ||
 | CPD (LEIC)           | 19.0  |  [2 Assigns (Chat Rooms & Parallel tests)](https://github.com/alexandre2004costa/CPD) ||
 | CG (LEIC)            | 19.0  | [Scene w Heli, Fire, Water ...](https://github.com/alexandre2004costa/Computa-o-Gr-fica) ||
+| SAAD (MIA)           | 18.4  | [Mixed-integer Programming and Constraint Programming on Aircraft Landing](https://github.com/gksoztrk/saad_project) ||
 | PFL (LEIC)           | 18.4  | [Haskell Graph Functions](https://github.com/alexandre2004costa/PFL-project) ||
 | PFL (LEIC)           | 18.3  | [Blinq](https://github.com/alexandre2004costa/PFL2) ||
 | PI (LEIC)            | 18.0  | [Spiking Neural Networks](https://github.com/alexandre2004costa/Spinking-Neural-Networks) | ![](https://github.com/alexandre2004costa/Spinking-Neural-Networks/blob/master/SNN.gif)|
 | IA (LEIC)            | 18.0  | [Loan aproval prediction](https://github.com/alexandre2004costa/IA_project2) ||
 | LTW (LEIC)           | 17.5  | [DABintage Website](https://github.com/FEUP-LTW-2024/ltw-project-2024-ltw04g06) ||
 | ESOF (LEIC)          | 17.5  | [ForumFlow App](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC04T5) ||
+| IAS (MIA)            | 17.0  | [Synthetic Datasets as an Ethical Laboratory](https://github.com/alexandre2004costa/Synthetic_Datasets_as_an_Ethical_Laboratory) ||
+| ICD (MIA)            | 17.0  | [Predicting Heart diseases on children](https://github.com/alexandre2004costa/ICD) ||
 | LDTS (LEIC)          | 14.5  | [PacMan Game](https://github.com/FEUP-LDTS-2023/project-l04gr04) | ![PacMan Game](https://github.com/FEUP-LDTS-2023/project-l04gr04/blob/master/gifs_images/scattergif.gif) |
 
 

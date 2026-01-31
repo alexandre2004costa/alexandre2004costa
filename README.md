@@ -43,7 +43,7 @@
 | AED (LEIC)           | 19.3  | [Travelling System](https://github.com/berno9/ProjetoAED2) ||
 | CPD (LEIC)           | 19.0  |  [2 Assigns (Chat Rooms & Parallel tests)](https://github.com/alexandre2004costa/CPD) ||
 | CG (LEIC)            | 19.0  | [Scene w Heli, Fire, Water ...](https://github.com/alexandre2004costa/Computa-o-Gr-fica) ||
-| SAAD (MIA)           | 18.4  | [Mixed-integer Programming and Constraint Programming on Aircraft Landing](https://github.com/gksoztrk/saad_project) ||
+| SAAD (MECD)           | 18.4  | [Mixed-integer Programming and Constraint Programming on Aircraft Landing](https://github.com/gksoztrk/saad_project) ||
 | PFL (LEIC)           | 18.4  | [Haskell Graph Functions](https://github.com/alexandre2004costa/PFL-project) ||
 | PFL (LEIC)           | 18.3  | [Blinq](https://github.com/alexandre2004costa/PFL2) ||
 | PI (LEIC)            | 18.0  | [Spiking Neural Networks](https://github.com/alexandre2004costa/Spinking-Neural-Networks) | ![](https://github.com/alexandre2004costa/Spinking-Neural-Networks/blob/master/SNN.gif)|
